@@ -1,0 +1,10 @@
+mode: local
+
+api:
+  api_key: "Your API KEY"
+  api_base_url: 'https://dashscope.aliyuncs.com/compatible-mode/v1'
+  chatbot_model: 'qwen2.5-32b-instruct'
+local_model:
+  api_base_url: "http://127.0.0.1:11434/v1"
+  api_key: "ollama"
+  chatbot_model: "mistral"

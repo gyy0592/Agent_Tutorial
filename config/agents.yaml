@@ -1,0 +1,3 @@
+chatbot:
+  role_name: "Chatbot"
+  system_message: "You are a helpful AI assistant."
